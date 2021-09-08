@@ -11,6 +11,16 @@ body{
     margin:0;
     background-color: #FFF5EE;
 }
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 20px;
+    color:#4B0082;
+}
+.instruction{
+    color:#33006F;
+    font-weight: bold;
+}
 
 .board{
     width: 100vh;
